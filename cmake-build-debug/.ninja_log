@@ -1,0 +1,25 @@
+# ninja log v5
+1	169	7179968291438913	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+170	313	7179968292860861	Estructuras.exe	53467c8a16916e23
+3	145	7179976960780665	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+146	249	7179976961777058	Estructuras.exe	53467c8a16916e23
+13	201	7180001996308723	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+201	378	7180001998012808	Estructuras.exe	53467c8a16916e23
+7	141	7180035251669605	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+141	262	7180035252814746	Estructuras.exe	53467c8a16916e23
+2	139	7180038409690713	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+139	227	7180038410524072	Estructuras.exe	53467c8a16916e23
+2	75	7180038555180927	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+78	159	7180038556001021	Estructuras.exe	53467c8a16916e23
+2	80	7180039331908237	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+80	183	7180039332896550	Estructuras.exe	53467c8a16916e23
+2	74	7180039702275618	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+75	158	7180039703067982	Estructuras.exe	53467c8a16916e23
+2	88	7180040478949980	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+89	175	7180040479773771	Estructuras.exe	53467c8a16916e23
+2	154	7180041876976918	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+154	249	7180041877901547	Estructuras.exe	53467c8a16916e23
+3	89	7180042295158298	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+89	166	7180042295878756	Estructuras.exe	53467c8a16916e23
+3	89	7180042409020472	CMakeFiles/Estructuras.dir/main.c.obj	b69b2a57f5f99fba
+90	177	7180042409871063	Estructuras.exe	53467c8a16916e23
